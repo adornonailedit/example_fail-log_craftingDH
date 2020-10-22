@@ -1,4 +1,10 @@
-# example_fail-log_craftingDH
+# What the hell are you doing, Donk?
+
+I am defnitely not deleting this content. While I usually work through things from beginning to end systematically, this time I am taking baby steps. I am having a hard time separating the massed clump of "all the things I need to learn and feel like I'm on my own in doing so" from the individual items I have to learn and actionable steps I can take in doing so. Thus, I have not read beyond "update fail log". I will look at next steps when it comes time to do them. Bite-sized. Manageable. Not going to panic. Right? Lol. Sure, deal. 
+
+This is where I am going to document the things I am working through and the paths I have identified as places to start. Right now I have little else to add. I have written a first file (rewritten, really) and made a few commitments to myself. Okey donk. Later, I will do more. That's all there is to say right now.
+
+## example_fail-log_craftingDH
 
 This GitHub repository is an example fail log for the [Crafting Digital History Workbook](http://workbook.craftingdigitalhistory.ca/). The point of a fail log is to openly discuss your worries, pose questions, and reflect on your weekly learning. Dr. Graham will review your fail log and offer individual or class-wide feedback. Note that while this work can seem daunting, a fail log will help generate open discussion and track your educational growth. The log is meant to help document your work. Remember: **Document what you do, and do what you document.**
 
